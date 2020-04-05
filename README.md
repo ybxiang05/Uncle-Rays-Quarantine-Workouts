@@ -11,7 +11,7 @@ This developer does not own the copyright to any of the GIFs in this application
 ## App Demo
 
 <p align="center">
-<img src="./js/assets/readme_images/demo.gif" height="400"/>
+<img src="./js/assets/readme_images/demo.gif" height="500"/>
 </p>
 
 ---
