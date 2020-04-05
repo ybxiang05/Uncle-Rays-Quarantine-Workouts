@@ -1,6 +1,5 @@
 import React from 'react';
 import {Text, TouchableOpacity, ScrollView, Image, View} from 'react-native';
-import UltimateStackScreens from '../../navigation';
 import styles from './styles';
 class Home extends React.Component {
   constructor(props) {

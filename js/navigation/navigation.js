@@ -10,8 +10,6 @@ import RussianTwist from '../screens/RussianTwist';
 import Squat from '../screens/Squat';
 import SupermanPlank from '../screens/SupermanPlank';
 import TricepDip from '../screens/TricepDip';
-import Rest from '../screens/Rest';
-import WorkoutComplete from '../screens/WorkoutComplete';
 
 const UltimateStack = createStackNavigator();
 
@@ -31,7 +29,6 @@ export const UltimateStackScreens = props => {
       <UltimateStack.Screen name="Squat" component={Squat} />
       <UltimateStack.Screen name="SupermanPlank" component={SupermanPlank} />
       <UltimateStack.Screen name="TricepDip" component={TricepDip} />
-      <UltimateStack.Screen name="Rest" component={Rest} />
     </UltimateStack.Navigator>
   );
 };

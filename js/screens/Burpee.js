@@ -1,6 +1,5 @@
 import React from 'react';
 import WorkoutTemplate from '../components/WorkoutTemplate';
-import navigation from '../navigation';
 import PageLayout from '../components/PageLayout';
 
 const Burpee = ({navigation}) => {
