@@ -12,7 +12,7 @@ const RussianTwist = ({navigation}) => {
           subtitle=""
           name="30 Russian Twists"
           description="Disc and/or weights optional. Take the time to consider exercise names like this one, or 'Hindu push up', and whether they're still harmless and inoffensive in 2020."
-          gif={require('../assets/RussianTwist.gif')}
+          gif={require('../assets/workout_images/RussianTwist.gif')}
           onPress={() => {
             navigation.navigate('Rest');
           }}

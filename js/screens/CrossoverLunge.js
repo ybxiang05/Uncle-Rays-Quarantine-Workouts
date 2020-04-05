@@ -12,7 +12,7 @@ const CrossoverLunge = ({navigation}) => {
           name="10 Crossover Lunges"
           subtitle="(per side)"
           description="The GIF is misleading, but Brooke wanted the images to be consistent. Please step out and across as if you're about to throw a backhand. Disc optional for practicing throwing form."
-          gif={require('../assets/CrossoverLunge.gif')}
+          gif={require('../assets/workout_images/CrossoverLunge.gif')}
           background={{backgroundColor: '#f5f5f5'}}
           onPress={() => {
             navigation.navigate('MountainClimber');

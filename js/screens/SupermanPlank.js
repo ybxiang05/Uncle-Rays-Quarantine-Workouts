@@ -12,7 +12,7 @@ const SupermanPlank = ({navigation}) => {
           subtitle=""
           name="20 Superman Planks"
           description="Raymond Senpei says: focus on extending your body and being as horizontal as possible. Crunch optional. For the real Clark Kents around here, feel free to do this exercise from your feet instead."
-          gif={require('../assets/SupermanPlank.gif')}
+          gif={require('../assets/workout_images/SupermanPlank.gif')}
           onPress={() => {
             navigation.navigate('ReverseLunge');
           }}

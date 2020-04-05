@@ -10,7 +10,7 @@ const Burpee = ({navigation}) => {
           name="15 Burpees"
           subtitle=""
           description="Push-up optional. Feel the burn!"
-          gif={require('../assets/Burpee.gif')}
+          gif={require('../assets/workout_images/Burpee.gif')}
           onPress={() => {
             navigation.navigate('LateralLunge');
           }}

@@ -12,7 +12,7 @@ const LateralLunge = ({navigation}) => {
           name="10 Lateral Lunges"
           subtitle="(per side)"
           description="As if stepping out for a flick. Disc optional to practice throwing form."
-          gif={require('../assets/LateralLunge.gif')}
+          gif={require('../assets/workout_images/LateralLunge.gif')}
           onPress={() => {
             navigation.navigate('CrossoverLunge');
           }}

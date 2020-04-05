@@ -11,7 +11,10 @@ class Home extends React.Component {
     return (
       <ScrollView contentContainerStyle={styles.contentContainer}>
         <Text style={styles.title}>Uncle Ray's Quarantine Workouts</Text>
-        <Image style={styles.ray} source={require('../../assets/ray.png')} />
+        <Image
+          style={styles.ray}
+          source={require('../../assets/ray/ray.png')}
+        />
         <TouchableOpacity
           onPress={() => {
             this.setState({open: !this.state.open});

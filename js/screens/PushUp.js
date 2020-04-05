@@ -12,7 +12,7 @@ const PushUp = ({navigation}) => {
           subtitle=""
           name="15 Push Ups"
           description="This is Brooke's least favourite exercise. But they do it for the love of Mola and Fable."
-          gif={require('../assets/PushUp.gif')}
+          gif={require('../assets/workout_images/PushUp.gif')}
           onPress={() => {
             navigation.navigate('SupermanPlank');
           }}

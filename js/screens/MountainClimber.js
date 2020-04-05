@@ -12,7 +12,7 @@ const MountainClimber = ({navigation}) => {
           subtitle=""
           name="30 Mountain Climbers"
           description="Climb those mountains!"
-          gif={require('../assets/MountainClimber.gif')}
+          gif={require('../assets/workout_images/MountainClimber.gif')}
           onPress={() => {
             navigation.navigate('RussianTwist');
           }}

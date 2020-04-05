@@ -17,7 +17,7 @@ class Rest extends React.Component {
             <Text style={styles.title}>You made it! </Text>
             <Image
               style={styles.image}
-              source={require('../../assets/Rest.gif')}
+              source={require('../../assets/workout_images/Rest.gif')}
             />
             <Text style={styles.countdown}>
               Take a break. Drink some water. Maybe call your mother.{' '}

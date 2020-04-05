@@ -14,7 +14,7 @@ const PageLayout = ({workoutName, content, background}) => {
               navigation.navigate('Home');
             }}>
             <Image
-              source={require('../../assets/ios-arrow.png')}
+              source={require('../../assets/icons/ios-arrow.png')}
               style={styles.arrow}
             />
           </TouchableOpacity>

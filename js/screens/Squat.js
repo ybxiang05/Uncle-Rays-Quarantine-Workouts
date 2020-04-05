@@ -12,7 +12,7 @@ const Squat = ({navigation}) => {
           name="15 Squats"
           subtitle=""
           description="It took Brooke an hour to find this GIF. They were not pleased."
-          gif={require('../assets/Squat.gif')}
+          gif={require('../assets/workout_images/Squat.gif')}
           onPress={() => {
             navigation.navigate('PushUp');
           }}

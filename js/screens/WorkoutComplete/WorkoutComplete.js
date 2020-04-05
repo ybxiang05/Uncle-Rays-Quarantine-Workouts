@@ -10,7 +10,7 @@ const WorkoutComplete = props => {
       <Text style={styles.header}>You're all done!</Text>
       <Image
         style={styles.rayHappy}
-        source={require('../../assets/rayHappy.png')}
+        source={require('../../assets/ray/rayHappy.png')}
       />
       <Text style={styles.proud}>Uncle Ray is proud of you.</Text>
       <TouchableOpacity
