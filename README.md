@@ -6,15 +6,11 @@ All workouts are the intellectual property of Raymond Young, who is silent and d
 
 This developer does not own the copyright to any of the GIFs in this application. They're taken from 7 Daily Workouts (which doesn't seem to exist anymore) and other corners of the internet where we all live. Please don't sue me. I don't have any money.
 
----
-
 ## App Demo
 
 <p align="center">
 <img src="./js/assets/readme_images/demo.gif" height="500"/>
 </p>
-
----
 
 ## App Images
 
@@ -24,8 +20,6 @@ This developer does not own the copyright to any of the GIFs in this application
 <img src="./js/assets/readme_images/workout_overview.png" height="400">
 <img src="./js/assets/readme_images/all_done.png" height="400">
 </p>
-
----
 
 ## Installation Instructions
 
@@ -51,8 +45,6 @@ or
 
 `yarn run ios`
 
----
-
 ## Technologies Used
 
 ### React-Native
@@ -60,8 +52,6 @@ or
 ### React Navigation
 
 ### React Countdown Component
-
----
 
 ## Future Considerations
 
