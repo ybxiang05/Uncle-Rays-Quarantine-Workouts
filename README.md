@@ -63,6 +63,11 @@ or
 
 ---
 
+## Future Considerations
+
+- This app will be expanded to include any workout plans Ray might come up with in the near future. With this in mind, I will have to consider using a database to store the workout information instead.
+- Adding music might be a nice touch. If I have more time before COVID-19 blows over, I might consider adding some sounds, which should be fun!
+
 ## About the Developer
 
 Hi there! Thanks for making it all the way to the bottom - do people actually read the README?
