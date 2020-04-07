@@ -1,6 +1,6 @@
 # Uncle Ray's Quarantine Workouts
 
-An iOS mobile workout application for Vancouver-based ultimate frisbee club teams, [Mola Mola](https://www.facebook.com/molamolaultimate/) and [Fable](https://www.facebook.com/fableultimate). Built with [React-Native](https://reactnative.dev/docs/getting-started) and [React-Navigation](https://reactnavigation.org/). This app also uses [React Countdown Component](https://www.npmjs.com/package/react-native-countdown-component).
+An iOS mobile workout application developed over a weekend for Vancouver-based ultimate frisbee club teams, [Mola Mola](https://www.facebook.com/molamolaultimate/) and [Fable](https://www.facebook.com/fableultimate). Built with [React-Native](https://reactnative.dev/docs/getting-started) and [React-Navigation](https://reactnavigation.org/). This app also uses [React Countdown Component](https://www.npmjs.com/package/react-native-countdown-component).
 
 All workouts are the intellectual property of Raymond Young, who is silent and deadly on the field, but kind and gentle in all other aspects of life.
 
